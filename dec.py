@@ -5,3 +5,5 @@ def decorator(func):
 		# do something
 		return value
 	return wrapper
+
+# just a test comment
