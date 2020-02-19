@@ -7,3 +7,4 @@ def decorator(func):
 	return wrapper
 
 # just a test comment
+# another comment
